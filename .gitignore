@@ -1,0 +1,6 @@
+# relevant patient data to be ignored
+data/reddy_data/reddy_tmm_quantile_log2_normalised_gene_count_matrix_RSEM.csv
+data/reddy_data/full_reddy_s1.xlsx
+
+# usuals
+*/__pycache__/
